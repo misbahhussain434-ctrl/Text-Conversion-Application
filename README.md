@@ -1,13 +1,13 @@
-Text Conversion Web Project
+**Text Conversion Web Project**
 <div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Text_icon.svg" width="100"/> </div>
 
-Introduction
+**Introduction**
 
 The Text Conversion Web Project is a front-end web application built using python.
 
 Users can copy, preview and modify text in real time directly in the browser, making text manipulation fast and easy without any external tools.
 
-Objectives
+**Objectives**
 
 Provide a simple and interactive interface for text conversion
 
@@ -17,10 +17,10 @@ Support multiple text formatting options
 
 Enable easy copy and export of converted text
 
-Technologies Used
+**Technologies Used**
 
 Python - Language
 
 GitHub – Project hosting and version control
 
-Misbah Hussain
+**Misbah Hussain**
