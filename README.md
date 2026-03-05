@@ -1,4 +1,4 @@
-**Text Conversion Web Project**
+**Text Conversion Project**
 <div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Text_icon.svg" width="100"/> </div>
 
 **Introduction**
